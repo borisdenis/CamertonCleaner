@@ -100,48 +100,48 @@
             this.скопiюватиТiлькиВiдмiченiToolStripMenuItem,
             this.всіЗакритiToolStripMenuItem});
             this.роботаЗПапкоюToolStripMenuItem.Name = "роботаЗПапкоюToolStripMenuItem";
-            this.роботаЗПапкоюToolStripMenuItem.Size = new System.Drawing.Size(105, 20);
+            this.роботаЗПапкоюToolStripMenuItem.Size = new System.Drawing.Size(112, 20);
             this.роботаЗПапкоюToolStripMenuItem.Text = "Робота з папкою";
             // 
             // скануватиToolStripMenuItem
             // 
             this.скануватиToolStripMenuItem.Name = "скануватиToolStripMenuItem";
-            this.скануватиToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
+            this.скануватиToolStripMenuItem.Size = new System.Drawing.Size(234, 22);
             this.скануватиToolStripMenuItem.Text = "Сканувати";
             this.скануватиToolStripMenuItem.Click += new System.EventHandler(this.скануватиToolStripMenuItem_Click);
             // 
             // архiвуватиЗакритiToolStripMenuItem
             // 
             this.архiвуватиЗакритiToolStripMenuItem.Name = "архiвуватиЗакритiToolStripMenuItem";
-            this.архiвуватиЗакритiToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
+            this.архiвуватиЗакритiToolStripMenuItem.Size = new System.Drawing.Size(234, 22);
             this.архiвуватиЗакритiToolStripMenuItem.Text = "Перемiстити всі закритi";
             this.архiвуватиЗакритiToolStripMenuItem.Click += new System.EventHandler(this.архiвуватиЗакритiToolStripMenuItem_Click);
             // 
             // архiвуватиВiдмiченiToolStripMenuItem
             // 
             this.архiвуватиВiдмiченiToolStripMenuItem.Name = "архiвуватиВiдмiченiToolStripMenuItem";
-            this.архiвуватиВiдмiченiToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
+            this.архiвуватиВiдмiченiToolStripMenuItem.Size = new System.Drawing.Size(234, 22);
             this.архiвуватиВiдмiченiToolStripMenuItem.Text = "Перемiстити тiльки вiдмiченi";
             this.архiвуватиВiдмiченiToolStripMenuItem.Click += new System.EventHandler(this.архiвуватиВiдмiченiToolStripMenuItem_Click);
             // 
             // азхiвуватиПошкодженiToolStripMenuItem
             // 
             this.азхiвуватиПошкодженiToolStripMenuItem.Name = "азхiвуватиПошкодженiToolStripMenuItem";
-            this.азхiвуватиПошкодженiToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
+            this.азхiвуватиПошкодженiToolStripMenuItem.Size = new System.Drawing.Size(234, 22);
             this.азхiвуватиПошкодженiToolStripMenuItem.Text = "Перемiстити всі пошкодженi";
             this.азхiвуватиПошкодженiToolStripMenuItem.Click += new System.EventHandler(this.азхiвуватиПошкодженiToolStripMenuItem_Click);
             // 
             // скопiюватиТiлькиВiдмiченiToolStripMenuItem
             // 
             this.скопiюватиТiлькиВiдмiченiToolStripMenuItem.Name = "скопiюватиТiлькиВiдмiченiToolStripMenuItem";
-            this.скопiюватиТiлькиВiдмiченiToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
+            this.скопiюватиТiлькиВiдмiченiToolStripMenuItem.Size = new System.Drawing.Size(234, 22);
             this.скопiюватиТiлькиВiдмiченiToolStripMenuItem.Text = "Скопiювати тiльки вiдмiченi";
             this.скопiюватиТiлькиВiдмiченiToolStripMenuItem.Click += new System.EventHandler(this.скопiюватиТiлькиВiдмiченiToolStripMenuItem_Click);
             // 
             // всіЗакритiToolStripMenuItem
             // 
             this.всіЗакритiToolStripMenuItem.Name = "всіЗакритiToolStripMenuItem";
-            this.всіЗакритiToolStripMenuItem.Size = new System.Drawing.Size(217, 22);
+            this.всіЗакритiToolStripMenuItem.Size = new System.Drawing.Size(234, 22);
             this.всіЗакритiToolStripMenuItem.Text = "Скопiювати  всі закритi";
             this.всіЗакритiToolStripMenuItem.Click += new System.EventHandler(this.всіЗакритiToolStripMenuItem_Click);
             // 
@@ -239,10 +239,6 @@
             this.buttonFolderKamerton.Text = "...";
             this.buttonFolderKamerton.UseVisualStyleBackColor = true;
             this.buttonFolderKamerton.Click += new System.EventHandler(this.buttonFolderKamerton_Click);
-            // 
-            // folderBrowserDialogKamerton
-            // 
-            this.folderBrowserDialogKamerton.RootFolder = System.Environment.SpecialFolder.DesktopDirectory;
             // 
             // label2
             // 
