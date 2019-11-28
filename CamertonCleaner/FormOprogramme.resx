@@ -112,26 +112,23 @@
     <value>2.0</value>
   </resheader>
   <resheader name="reader">
-    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <resheader name="writer">
-    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="richTextBox1.Text" xml:space="preserve">
-    <value>Програма надається користувачам «Як є» та застосовується на 
+    <value>
+
+Програма надається користувачам «Як є» та застосовується на 
 власний ризик. Автор ніякої відповідальності за заподіяння 
 будь-якої шкоди не несе.
 
 Дизайн взято з програми Camarch (http://forum.ics.gov.ua/index.php?topic=447.new;topicseen#new)
 
 Про поточний стан, усунення недоліків, та появи нових функцій в 
-програмі можна дізнатись у автора https://vk.com/denis.a.borisov
+програмі можна дізнатись у автора https://www.facebook.com/denis.a.borisov.mea
 
-Налаштування програми зберiгаються у наступному мiсцi - C:\Users\ваше iм'я користувача\AppData\Local\Application Data\CamertonCleaner
-
-Якщо хтось бажає підтримати матеріально- реквізити WebMomey
-WMU  U113917626536
-WMR  R580495156317
-WMZ  Z330196453535</value>
+Налаштування програми зберiгаються у наступному мiсцi - C:\Users\ваше iм'я користувача\AppData\Local\Application Data\CamertonCleaner</value>
   </data>
 </root>
